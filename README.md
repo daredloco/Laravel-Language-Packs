@@ -3,4 +3,4 @@
 
 ## Languages
 - German (WIP)
-- Brazilian Portuguese (TODO)
+- Brazilian Portuguese (WIP)
